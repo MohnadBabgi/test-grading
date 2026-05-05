@@ -1,2 +1,1 @@
-# test-grading
-Starter code repository created by intelliTA
+**This is a repo for testing grading**
